@@ -1,0 +1,1 @@
+export 'package:responsive_ui/enums/device_screen_type.dart';
